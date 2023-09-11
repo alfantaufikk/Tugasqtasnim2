@@ -1,0 +1,1 @@
+Berjalannya JavaScript dari berbagai platform sehingga menciptakan framework JavaScript seperti node js, react js, dan nw js.
